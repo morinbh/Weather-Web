@@ -1,5 +1,5 @@
 # Weather-Web
-# Weather App (Hebrew)
+# Weather App 
 
 Web application that shows the **current weather** and **5 day forecast** for any city.  
 Supports **Hebrew input** and displays **day names in Hebrew**. Background changes dynamically based on the weather.
