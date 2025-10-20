@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  height: 100vh; /* תופס את כל גובה הדף */
+  display: flex;
+  flex-direction: column; /* מסדר מהראש למטה */
+  justify-content: center; /* מרכז אנכית */
+  align-items: center; /* מרכז רוחבית */
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #6fb1fc, #4364f7, #0052d4);
+  color: white;
+}
+
+h1 {
+  margin-bottom: 30px; /* רווח בין הכותרת ל-input */
+}
+
+input {
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  width: 250px; /* רוחב הקופסה */
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  background: #ffffff;
+  color: #0052d4;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #e0e0e0;
+}
+
+#result {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.forecast-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.forecast-day {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 90px;
+}
+
+.forecast-day img {
+  width: 50px;
+}
+.forecast-container {
+  direction: rtl;
+  text-align: right;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
