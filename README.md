@@ -1,4 +1,3 @@
-# Weather-Web
 # Weather App 
 
 Web application that shows the **current weather** and **5 day forecast** for any city.  
