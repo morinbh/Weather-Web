@@ -1,7 +1,7 @@
 # Weather-Web
 # Weather App (Hebrew)
 
-Web application that shows the **current weather** and **5-day forecast** for any city.  
+Web application that shows the **current weather** and **5 day forecast** for any city.  
 Supports **Hebrew input** and displays **day names in Hebrew**. Background changes dynamically based on the weather.
 
 ---
@@ -25,11 +25,4 @@ Supports **Hebrew input** and displays **day names in Hebrew**. Background chang
 - Dynamic DOM manipulation
 - Right-to-left (RTL) support for forecast display
 
----
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/morinbh/Weather-Web.git
 
