@@ -23,5 +23,9 @@ Supports **Hebrew input** and displays **day names in Hebrew**. Background chang
 - Fetch API with `async/await`
 - Dynamic DOM manipulation
 - Right-to-left (RTL) support for forecast display
+- 
+<img width="1424" height="685" alt="current-weather" src="https://github.com/user-attachments/assets/c80abf57-9f7d-4e99-a6d7-7dea32fad67b" />
+
+
 
 
